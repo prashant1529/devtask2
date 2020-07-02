@@ -1,3 +1,4 @@
+from smtplib import SMTP
 sender_email = "awesomeprince1530@gmail.com"
 receiver_email = "awesomeprince1530@gmail.com"
 password = "eL0nMu$K15"
