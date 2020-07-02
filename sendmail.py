@@ -10,4 +10,3 @@ print('login successfully')
 server.sendmail(sender_email,receiver_email , meassge)
 print("Email has been sent to " ,receiver_email)
 server.quit()
-© 2020 GitHub, Inc.
