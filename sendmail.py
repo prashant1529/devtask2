@@ -1,6 +1,6 @@
 sender_email = "awesomeprince1530@gmail.com"
 receiver_email = "awesomeprince1530@gmail.com"
-password = eL0nMu$K15
+password = "eL0nMu$K15"
 message = "Your code is not correct"
 server = smtplib.SMTP('smtp.gmail.com',587)
 server.starttls()
