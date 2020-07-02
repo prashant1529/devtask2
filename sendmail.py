@@ -1,7 +1,7 @@
 import smtplib
-sender_email = "awesomeprince1530@gmail.com"
-receiver_email = "awesomeprince1530@gmail.com"
-password = "eL0nMu$K15"
+sender_email = "youremailaddress@gmail.com"
+receiver_email = "youremailaddress@gmail.com"
+password = "password"
 message = "Your code is not working correctly"
 server = smtplib.SMTP('smtp.gmail.com',587)
 server.starttls()
